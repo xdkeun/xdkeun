@@ -1,4 +1,4 @@
-New GitHub URL : github.com/Dragonkeun
+New GitHub URL : https://github.com/Dragonkeun
 
 <!--
 ### Hi there 👋
